@@ -3,7 +3,6 @@
 body {
   background-color: #FFFFFA;
   margin: 0;
-  text-align: center;
   font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
 }
 
@@ -24,6 +23,7 @@ p{
   padding-bottom: 0;
   background-color: #DEF2F1;
   height: 820px;
+  text-align: center;
 }
 
 /***********************IDS**************************/
@@ -55,5 +55,12 @@ left: 20px;
 
 #title{
   padding-top: 80px;
-  font-size: 50px;
+  font-size: 80px;
+  font-family: 'Sacramento', cursive;
+}
+
+#programmer {
+  position: absolute;
+  right: 620px;
+  top: 180px;
 }
