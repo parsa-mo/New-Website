@@ -1,0 +1,59 @@
+/***********************TAGS**************************/
+
+body {
+  background-color: #FFFFFA;
+  margin: 0;
+  text-align: center;
+  font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+}
+
+h1{
+  color: #006D77;
+  margin-top: 0;
+}
+
+p{
+  color: #17252A;
+  font-size: 20px;
+}
+
+/***********************ClASSES**************************/
+
+.top {
+  padding: 20px;
+  padding-bottom: 0;
+  background-color: #DEF2F1;
+  height: 820px;
+}
+
+/***********************IDS**************************/
+
+#logo {
+border-radius: 50%;
+width: 100px;
+height: 100px;
+object-fit: contain;
+position: absolute;
+top: 30px;
+left: 20px;
+}
+
+#code {
+  height: 50px;
+  position: absolute;
+  top: 250px;
+  right: 640px;
+}
+
+#desktop {
+  height: 400px;
+  padding-top: 110px;
+  position: absolute;
+  bottom: 0;
+  right: 360px;
+}
+
+#title{
+  padding-top: 80px;
+  font-size: 50px;
+}
